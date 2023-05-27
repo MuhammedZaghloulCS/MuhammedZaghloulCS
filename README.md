@@ -12,7 +12,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedzaghloulcs&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedzaghloulcs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedzaghloulcs&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedzaghloulcs" /> </p>
 
  
 
@@ -24,18 +24,21 @@
 <hr>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzaghloulcs&show_icons=true&locale=en&layout=compact" alt="muhammedzaghloulcs" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzaghloulcs&show_icons=true&locale=en&layout=compact" alt="muhammedzaghloulcs" />
+  </p>
 </div>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzaghloulcs&show_icons=true&locale=en" alt="muhammedzaghloulcs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzaghloulcs&show_icons=true&locale=en" alt="muhammedzaghloulcs" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzaghloulcs&" alt="muhammedzaghloulcs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzaghloulcs&" alt="muhammedzaghloulcs" /></p>
 
 
 <hr>
 <h3 align="center">Git profile Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzaghloulcs" alt="muhammedzaghloulcs" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzaghloulcs" alt="muhammedzaghloulcs" /></a> </p>
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
