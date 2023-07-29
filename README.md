@@ -28,15 +28,15 @@
 
 <div style="text-align: center;">
 
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; ">
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzaghloulcs&show_icons=true&locale=en&layout=compact" alt="muhammedzaghloulcs" />
     </p>
   </div>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzaghloulcs&show_icons=true&locale=en" alt="muhammedzaghloulcs" /></p>
+  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=muhammedzaghloulcs&show_icons=true&locale=en" alt="muhammedzaghloulcs" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzaghloulcs&" alt="muhammedzaghloulcs" /></p>
+  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzaghloulcs&" alt="muhammedzaghloulcs" /></p>
 
 </div>
 
