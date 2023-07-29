@@ -39,7 +39,7 @@
 
 <hr>
 <h3 align="center">Git profile Trophies</h3>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzaghloulcs" alt="muhammedzaghloulcs" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzaghloulcs" alt="muhammedzaghloulcs" /></a> </p>
 
 <hr>
 
