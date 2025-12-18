@@ -8,7 +8,9 @@
 
 | Project | Description | Tools & Technologies |
 |:--:| :--:|:--
-| [FitVerse](https://github.com/muhammedzaghloulcs/FitVerse)| modern, full-featured fitness management platform that connects fitness coaches with clients. It provides comprehensive tools for workout planning, diet management, progress tracking, real-time communication, and more. Built using ASP.NET Core 9.0 with a clean N-tier architecture, FitVerse emphasizes scalability, maintainability, and user experience.
+| [FitVerse](https://github.com/muhammedzaghloulcs/FitVerse)| modern, full-featured fitness management platform that connects fitness coaches with clients.
+It provides comprehensive tools for workout planning, diet management, progress tracking, real-time communication, and more.
+Built using ASP.NET Core 9.0 with a clean N-tier architecture, FitVerse emphasizes scalability, maintainability, and user experience.
 | `ASP.NET Core 9.0`, `Entity Framework Core 9.0`, `ASP.NET Identity`, `SignalR`, `Razor Pages`|
 
 
