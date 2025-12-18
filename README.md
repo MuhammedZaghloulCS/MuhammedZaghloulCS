@@ -8,7 +8,8 @@
 
 | Project | Description | Tools & Technologies |
 |:--:| :--:|:--
-| [contact-cloud](https://github.com/MuhammedZaghloulCS/contact-cloud)| it allows the user to show his contacts and save it and retrieve it any time with responsive application that provide all security for your contacts using your email.| `MVVM`, `Coroutines`, `Content Provider`, `shared preferences`, `Firebase database`, `Firebase authentication`, `Navigation graph with safe args`|
+| [FitVerse](https://github.com/muhammedzaghloulcs/FitVerse)| modern, full-featured fitness management platform that connects fitness coaches with clients. It provides comprehensive tools for workout planning, diet management, progress tracking, real-time communication, and more. Built using ASP.NET Core 9.0 with a clean N-tier architecture, FitVerse emphasizes scalability, maintainability, and user experience.
+| `ASP.NET Core 9.0`, `Entity Framework Core 9.0`, `ASP.NET Identity`, `SignalR`, `Razor Pages`|
 
 
 
